@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pgparth128
+- 👋 Hi, I’m @Parth
 - 👀 I’m interested in ...
     - Programming
     - Python Developement
